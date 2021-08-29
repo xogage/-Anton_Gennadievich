@@ -3,6 +3,9 @@
 - Анализу данных
 - Построение моделей и поиск лучшей для бизнес задачи
 
+# Библиотеки:
+- pandas, Matplotlib, train_test_split, GridSearchCV, make_scorer, cross_val_score, sklearn models
+
 # Описание:
 - Есть данные компании с параметрами добычи и очистки.
 
