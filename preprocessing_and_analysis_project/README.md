@@ -8,7 +8,7 @@
 - A/B-тесты.
 
 # Библиотеки:
-- pandas, numpy, matplotlib, plotly, A\B-тесты
+- pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs
 
 # Описание:
 - Из открытых источников доступны исторические данные (продажи игр, оценки пользователей и экспертов, жанры и платформы).  
