@@ -2,5 +2,5 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Анализ рынка игр](preprocessing_and_analysis_project) | Есть исторические данные о продаже игр. Выявить определяющие успешность игры закономерности| *pandas, numpy, matplotlib, plotly, A\B-тесты* |
-| [Восстановление золота из золотосодержащей руды](ML_project_and_business_tasks) | Компания разрабатывает решения для эффективной работы промышленных предприятий. Сделать модель которая будет предсказывать коэффициент восстановления золота из золотосодержащей руды| *pandas, Matplotlib, train_test_split, GridSearchCV, make_scorer, cross_val_score, sklearn models* |
+| [Анализ рынка игр](preprocessing_and_analysis_project) | Есть исторические данные о продаже игр. Выявить определяющие успешность игры закономерности| *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [Восстановление золота из золотосодержащей руды](ML_project_and_business_tasks) | Компания разрабатывает решения для эффективной работы промышленных предприятий. Сделать модель которая будет предсказывать коэффициент восстановления золота из золотосодержащей руды| *pandas, numpy, matplotlib, time, train_test_split, StandardScaler, shuffle, GridSearchCV, make_scorer, cross_val_score, mean_absolute_error, sklearn models* |
