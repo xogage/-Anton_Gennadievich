@@ -4,7 +4,7 @@
 - Построение моделей и поиск лучшей модели для бизнес-задачи
 
 # Библиотеки:
-- pandas, numpy, matplotlib, time, train_test_split, StandardScaler, shuffle, GridSearchCV, make_scorer, cross_val_score, mean_absolute_error, sklearn models
+- pandas, numpy, matplotlib, time, StandardScaler, shuffle, GridSearchCV, make_scorer, cross_val_score, mean_absolute_error, sklearn models
 
 # Описание:
 - Есть данные компании с параметрами добычи и очистки руды.
