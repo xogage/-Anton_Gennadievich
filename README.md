@@ -11,3 +11,11 @@
 
 | Другие проекты | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
+| [1. Анализ данных ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [2. Анализ данных ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [3. ML ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [4. Защита данных ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [5. Временные ряды ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [6. Работа с текстом ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [7. SQL-запросы ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [8. Компьютерное зрение ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
