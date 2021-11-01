@@ -2,6 +2,7 @@
 
 - Сборный проект - отображает совокупность нескольких проектов сделанных в Я.Практикуме.
 - Другой проект - сделанные мной проекты из Я.Практикум и других источников.
+- Одни из первых проектов - первые проекты, которые имеют в себе кучу изъянов, но я этого не стыжусь.
 
 | Сборные проекты | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
@@ -11,11 +12,15 @@
 
 | Другие проекты | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [1. Анализ данных ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
-| [2. Анализ данных ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
-| [3. ML ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
 | [4. Защита данных ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
 | [5. Временные ряды ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
 | [6. Работа с текстом ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
 | [7. SQL-запросы ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
 | [8. Компьютерное зрение ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+
+| Одни из первых проектов | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [9. Анализ данных ](9.Yandex_Real_Estate) | Есть архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность. | *pandas, numpy, matplotlib, seaborn* |
+| [10. Анализ данных ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [11. ML ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
+| [12. ML ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
