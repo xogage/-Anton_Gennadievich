@@ -13,8 +13,7 @@
 | Другие проекты | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [4. Поиск лучшего региона. ML ](4.Best_region) | Нужно решить, где бурить новую скважину. Есть данные пробы нефти в 3-ех регионах. Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. | *pandas, numpy, Bootstrap, matplotlib, train_test_split, StandardScaler, shuffle, GridSearchCV, cross_val_score, sklearn, MSE, RMSE* |
-| [5. Защита данных ](5.Data_encryption) | Нужно защитить данные клиентов страховой компании, чтобы при преобразовании качество моделей машинного обучения не ухудшилось. 
- | *pandas, numpy, pylab, train_test_split, StandardScaler, shuffle, LinearRegression, mean_squared_error* |
+| [5. Защита данных ](5.Data_encryption) | Нужно защитить данные клиентов страховой компании, чтобы при преобразовании качество моделей машинного обучения не ухудшилось. | *pandas, numpy, pylab, train_test_split, StandardScaler, shuffle, LinearRegression, mean_squared_error* |
 | [6. Временные ряды ]() |  | *pandas * |
 | [7. Работа с текстом ]() |  | *pandas* |
 | [8. SQL-запросы ]() |  | *pandas* |
