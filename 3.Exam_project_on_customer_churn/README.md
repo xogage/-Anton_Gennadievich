@@ -8,7 +8,7 @@
 
 # Библиотеки:
 
-- pandas, numpy, matplotlib, plotly, stats (A\B-тесты), time, StandardScaler, shuffle, GridSearchCV, cross_val_score, sklearn models, accuracy_score, roc_auc_score, classification_report, confusion_matrix, eli5 
+- pandas, numpy, matplotlib, plotly, scipy(A\B-тесты), time, StandardScaler, shuffle, GridSearchCV, cross_val_score, sklearn models, accuracy_score, roc_auc_score, classification_report, confusion_matrix, eli5 
 
 # Описание:
 
