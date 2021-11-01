@@ -12,6 +12,7 @@
 
 | Другие проекты | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
+| [4. Поиск лучшего региона. ML ](4.Best_region) | Нужно решить, где бурить новую скважину. Есть данные пробы нефти в 3-ех регионах. Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. | *pandas, numpy, matplotlib, Bootstrap, train_test_split, StandardScaler, shuffle, GridSearchCV, cross_val_score, sklearn, MSE, RMSE* |
 | [4. Защита данных ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
 | [5. Временные ряды ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
 | [6. Работа с текстом ]() |  | *pandas, numpy, matplotlib, plotly, stats (A\B-тесты), plotly.offline, plotly.graph_objs* |
